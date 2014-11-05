@@ -1,6 +1,6 @@
 # lslAbFh
 
-An **alias** for the ls command.
+An **alias** for the _ls_ command with a colorful and easy to read output.
 
 ### Install
 
