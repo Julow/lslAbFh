@@ -2,6 +2,8 @@
 
 An **alias** for the _ls_ command with a colorful and easy to read output.
 
+![ColorHighlight](/capture.png)
+
 ### Install
 
 Download **lslAbFh.sh** file and place it anywhere.
